@@ -1,0 +1,18 @@
+body {
+  background-color: #BBE1FA;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: #1B262C;
+  border-width: 5px;
+  width: 3%;
+}
+
+h1, h3 {
+  color: #0F4C75;
+}
+
+#profile-pic {
+  max-width: 250px;
+}
